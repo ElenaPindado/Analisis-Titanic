@@ -1,5 +1,4 @@
-# Análisis-Titanic
-Análisis sobre el desastre del Titanic
+# Análisis sobre el desastre del Titanic
 
 Analizamos la supervivencia por edad, sexo, clase, tarifa y embarque.
 
