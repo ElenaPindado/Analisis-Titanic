@@ -35,8 +35,10 @@ with col2:
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
 st.sidebar.title("Datos sobre supervivencia")
+st.sidebar.write("Elena Pindado")
 st.sidebar.image("http://c.files.bbci.co.uk/48F4/production/_107767681_5-1.jpg", width=200, caption='Imagen:https://www.bbc.com/mundo/noticias-49429975')
 st.sidebar.write("---") # hará un salto de línea 
+st.sidebar.write
 
 
 if st.sidebar.button("Data"):
