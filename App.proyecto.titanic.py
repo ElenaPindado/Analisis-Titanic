@@ -13,7 +13,7 @@ st.set_page_config(page_title= "Análisis Supervivencia Titanic", layout= "cente
 
 # Leemos csv:
 
-titanic=pd.read_csv(r"C:\Users\elena\OneDrive\Escritorio\Samplerepo\MÓDULO 1\13-Trabajo del Módulo I\datos\titanic.csv")
+titanic=pd.read_csv("titanic.csv")
 
 # APP :
 
