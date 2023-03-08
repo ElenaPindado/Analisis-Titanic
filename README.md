@@ -1,6 +1,6 @@
 # Análisis sobre el desastre del Titanic
 
-Analizamos la supervivencia por edad, sexo, clase, tarifa y embarque.
+Analizamos la supervivencia por edad, sexo, clase, tarifa y embarque a través de Python, visualización a través de varias librerías (Matplotlib, Seaborn, Plotly y Streamlit)
 
 
 # Data
