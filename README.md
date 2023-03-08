@@ -21,3 +21,7 @@ Datos obtenidos: (http://Kaggle.com)
 
 # Gráficos interactivos creados con Plotly
 ![newplot](https://user-images.githubusercontent.com/123492666/222980703-a20b86a1-c1a4-4a24-b192-1b1aa1b49ab6.png)
+
+# App creada en Streamlit
+<img width="955" alt="Captura de pantalla Streamlit" src="https://user-images.githubusercontent.com/123492666/223770123-fe5fe2f0-20fe-4db5-89b7-d4314493b601.png">
+
